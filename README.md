@@ -29,7 +29,7 @@ Then continue wherever you are. With coding tasks. Coding is essential, because 
 # Structure
 
 There will be three folders: "neuroscience", "dynamics" and "personal".
-In the folders there will be subfolders for python tasks called "Coding tasks", and another called "misc" for various other things.
+In the folders there will be subfolders for python tasks called "coding", and another called "misc" for various other things.
 I will mainly use python, but might also use other languages as I find suitable or which I'd like to invest more time into learning. MATLAB, LUA and perhaps C/C++ are likely contenders. 
 In each main folder I will have a document which updates weekly together with the analysis. This will probably be written in latex. 
 
