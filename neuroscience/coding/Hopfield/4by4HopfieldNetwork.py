@@ -27,7 +27,7 @@ pattern_list = [checkerboard]
 
 
 hopfield_net.store_patterns(pattern_list)
-# plot_tools.plot_network_weights(hopfield_net)
+plot_tools.plot_network_weights(hopfield_net)
 
 
 plt.figure()
